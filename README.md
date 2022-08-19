@@ -15,11 +15,6 @@ The main reason I choose this project to become more familiar with the javascrip
 <li>Shell Sort</li>
 </ul>
 
-<h3>Implemented</h3>
-<ul>
-<li>Merge Sort</li>
-</ul>
-
 
 <h2>How Does It Work</h2>
 
